@@ -1,4 +1,4 @@
-package ua.lviv.lgs.task5;
+package ua.lviv.lgs.task3;
 
 @FunctionalInterface
 public interface Amphibiable {
